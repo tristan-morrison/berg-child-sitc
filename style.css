@@ -1,0 +1,17 @@
+/*
+ Theme Name:   SITC 2017 (Berg Child Theme)
+ Theme URI:    https://github.com/tristanlopus/blerg-child-sitc
+ Description:  Wordpress child theme for WooCommerce's Storefront theme. Built for the ecommerce store and website for Rex Blankets and Stablewares
+ Author:       Tristan Lopus
+ Author URI:   http://github.com/tristanlopus
+ Template:     Berg
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:
+ Text Domain:  berg-child-sitc
+*/
+.inside_title {
+  max-height: 200px; }
+
+/*# sourceMappingURL=style.css.map */
